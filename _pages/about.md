@@ -18,7 +18,7 @@ Previously, I obtained his bachelor degree from School of Mathematical Sciences,
 - [Gap Dependent Bounds for Two-Player Markov Games](https://arxiv.org/abs/2107.00685) <br>
   Zehao Dou, Zhuoran Yang, Zhaoran Wang, Simon S.Du <br>
   *arxiv preprint*
-- [Diff_ResNets for Few-shot Learning -- an ODE Perspective](https://arxiv.org/abs/2105.03155) <br>
+- [Diff-ResNets for Few-shot Learning -- an ODE Perspective](https://arxiv.org/abs/2105.03155) <br>
   Tangjun Wang, Zehao Dou, Chenglong Bao, Zuoqiang Shi <br>
   *arxiv preprint*
   
