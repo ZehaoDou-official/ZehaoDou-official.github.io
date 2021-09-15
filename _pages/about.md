@@ -44,7 +44,7 @@ Previously, I obtained his bachelor degree from School of Mathematical Sciences,
  - 9/2018 - 6/2019:
    Researched, as a research assistant, the “environmental policies analysis” program and being in charge of coding and natural language processing. Collaborated with Dr. Yingdan Lu from Department of Communication, Stanford University and Prof. Xiao Tang from Tsinghua University. 
  - 3/2018 - 7/2018:
-   Participated in an internship of Baidu Inc. in the data analysis group advised by Miao Fan and Mingming Sun. Using new natural language processing techniques to design a better model for text classification, dialogue generation and so on. <br>
+   Participated in an internship of Baidu Inc. in the data analysis group advised by Miao Fan and Mingming Sun. Using new natural language processing techniques to design new models for text classification, dialogue generation and automatic QA. <br>
    
 ## Selected Awards and Scholarships
 ### 2020
