@@ -31,7 +31,7 @@ Previously, I obtained his bachelor degree from School of Mathematical Sciences,
  *arxiv preprint*
 
 ### Before 2019
- - [Improving Word Embeddings for Antonym Detection Using Thesauri and Sentiwordnet] <br>
+ - Improving Word Embeddings for Antonym Detection Using Thesauri and Sentiwordnet <br>
  Zehao Dou, Wei Wei, Xiaojun Wan <br>
  *NLPCC2018*
  - [Mathematical Analysis of the Adversarial Attacks](https://arxiv.org/abs/1811.06492) <br>
