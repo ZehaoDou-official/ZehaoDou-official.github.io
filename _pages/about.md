@@ -15,6 +15,9 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 
 ## Selected Publications
 ### 2021
+- [On the One-sided Convergence of Adam-type Algorithms in Non-convex Non-concave Min-max Optimization](https://arxiv.org/abs/2109.14213) <br>
+  Zehao Dou, Yuanzhi Li <br>
+  *arxiv preprint*
 - [Gap Dependent Bounds for Two-Player Markov Games](https://arxiv.org/abs/2107.00685) <br>
   Zehao Dou, Zhuoran Yang, Zhaoran Wang, Simon S.Du <br>
   *arxiv preprint*
