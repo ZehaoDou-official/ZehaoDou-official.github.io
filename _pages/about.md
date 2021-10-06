@@ -60,7 +60,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
  - Received an annual department scholarship, university scholarship and Excellent Students Awards every year during undergrad study. Awarded Guanghua Scholarship in Freshman, Fangzheng Scholarship in Sophomore and Yizheng Scholarship in Junior.
  
 ### 2017 
- - In S-T. Yau College Student Mathematics Contests, ranked 3rd and awarded silver medal in the "Applied Mathematics and Computation Mathematics" category, also awarded gold medal in Team Event (rank 1st). 
+ - In S-T. Yau College Student Mathematics Contests, ranked 3rd and awarded silver medal in the "Applied Mathematics and Computational Mathematics" category, also awarded gold medal in Team Event (rank 1st). 
 
 ### 2016
  - First Prize in the Chinese Mathematics Competitions (rank 9/100000).
