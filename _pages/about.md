@@ -20,7 +20,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
   *arxiv preprint*
 - [Gap Dependent Bounds for Two-Player Markov Games](https://arxiv.org/abs/2107.00685) <br>
   Zehao Dou, Zhuoran Yang, Zhaoran Wang, Simon S.Du <br>
-  *arxiv preprint*
+  *AISTATS 2022*
 - [Diff--ResNets for Few-shot Learning -- an ODE Perspective](https://arxiv.org/abs/2105.03155) <br>
   Tangjun Wang, Zehao Dou, Chenglong Bao, Zuoqiang Shi <br>
   *arxiv preprint*
@@ -28,7 +28,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 ### 2020
  - [A Priori Estimates of the Generalization Error for Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9053874) <br>
   Zehao Dou, Weinan E, Chao Ma <br>
- *ICASSP2020*
+ *ICASSP 2020*
  - [Making Method of Moments Great Again? -- How can GANs learn distributions](https://arxiv.org/abs/2003.04033) <br>
   Yuanzhi Li, Zehao Dou <br>
  *arxiv preprint*
