@@ -14,6 +14,10 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 
 
 ## Selected Publications
+### 2022
+- [Understanding Value Decomposition Algorithms in Deep Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2202.04868) <br>
+  Zehao Dou, Jakub Grudzien Kuba, Yaodong Yang <br>
+  *arxiv preprint*
 ### 2021
 - [On the One-sided Convergence of Adam-type Algorithms in Non-convex Non-concave Min-max Optimization](https://arxiv.org/abs/2109.14213) <br>
   Zehao Dou, Yuanzhi Li <br>
