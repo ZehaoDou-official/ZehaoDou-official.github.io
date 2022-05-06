@@ -15,7 +15,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 
 ## Selected Publications
 ### 2022
-- [Rates of estimation for high-dimensional multi-reference alignment](https://arxiv.org/abs/2205.01847) <br>
+- [Rates of Estimation for High-dimensional Multi-reference Alignment](https://arxiv.org/abs/2205.01847) <br>
   Zehao Dou, Zhou Fan, Harrison Zhou <br>
   *arxiv preprint*
 - [Understanding Value Decomposition Algorithms in Deep Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2202.04868) <br>
