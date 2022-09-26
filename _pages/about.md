@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year PhD student from the Department of Statistics and Data Science at Yale University, and I am so honored to be supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
+I am currently a third year PhD student from the Department of Statistics and Data Science at Yale University, and I am so honored to be supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
 
 Previously, I obtained my bachelor degree from School of Mathematical Sciences, Peking University (2015.9-2019.7). I have wide research interests including statistics, optimization, game theory, machine learning theory and reinforcement learning theory. My goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. 
 
