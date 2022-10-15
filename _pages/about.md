@@ -51,7 +51,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
  
 ## Experiences
  - 6/2022 - 9/2022:
-   Worked as a student researcher at Google AI in the Lux Group advised by Ankur Parikh and Behnam Neyshabur. During the internship, I studied a new version of T5 encoder-decoder language pretraining models, and apply them to natural language generation and protein generation, showing much better performance.
+   Worked as a student researcher at Google AI in the Lux Group advised by Ankur Parikh, Ran Tian, Lei Tao and Behnam Neyshabur. During the internship, I studied a new version of T5 encoder-decoder language pretraining models, and apply them to natural language generation and protein generation, showing much better performance.
 
  - 9/2018 - 12/2018:
    Participated in an internship of Microsoft Research Asia in the machine learning group advised by Weidong Ma. Using reinforcement learning and imitation learning to solve combinatorial optimization and transportation management problem.
