@@ -14,6 +14,11 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 
 
 ## Selected Publications
+### 2023 
+- [Learning Narrow One-Hidden-Layer ReLU Networks](https://arxiv.org/abs/2304.10524) <br>
+  Sitan Chen, Zehao Dou, Surbhi Goel, Adam R Klivans, Raghu Meka <br>
+  *arxiv preprint*
+
 ### 2022
 - [Rates of Estimation for High-dimensional Multi-reference Alignment](https://arxiv.org/abs/2205.01847) <br>
   Zehao Dou, Zhou Fan, Harrison Zhou <br>
@@ -31,7 +36,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
   *AISTATS 2022*
 - [Diff--ResNets for Few-shot Learning -- an ODE Perspective](https://arxiv.org/abs/2105.03155) <br>
   Tangjun Wang, Zehao Dou, Chenglong Bao, Zuoqiang Shi <br>
-  *arxiv preprint*
+  *Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
   
 ### 2020
  - [A Priori Estimates of the Generalization Error for Autoencoders](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9053874) <br>
