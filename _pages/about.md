@@ -17,7 +17,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 ### 2023 
 - [Learning Narrow One-Hidden-Layer ReLU Networks](https://arxiv.org/abs/2304.10524) <br>
   Sitan Chen, Zehao Dou, Surbhi Goel, Adam R Klivans, Raghu Meka <br>
-  *arxiv preprint*
+  *COLT 2023*
 
 ### 2022
 - [Rates of Estimation for High-dimensional Multi-reference Alignment](https://arxiv.org/abs/2205.01847) <br>
