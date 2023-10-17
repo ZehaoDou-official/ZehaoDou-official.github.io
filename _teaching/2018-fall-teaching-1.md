@@ -8,5 +8,5 @@ location: "Beijing, China"
 ---
 
 ## 2018 Fall
-- _AI Entrepreneurship and Industry Frontier Trends_ <br>
+- __AI Entrepreneurship and Industry Frontier Trends__ <br>
 Instructor: Ming Lei
