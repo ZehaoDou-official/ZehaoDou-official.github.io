@@ -1,10 +1,10 @@
 ---
-title: "Teaching Fellow (TF) at Yale University"
+title: "Teaching Fellow (TF) at Yale University (Full list)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/graduate-teaching
 venue: "Yale University"
-date: 2020-09-01
+date: 2023-09-01
 location: "New Haven, Connecticut"
 ---
 
