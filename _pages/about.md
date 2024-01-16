@@ -15,6 +15,9 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 
 ## Selected Publications
 ### 2023 
+- [Diffusion Posterior Sampling for Linear Inverse Problem Solving: A Filtering Perspective](https://openreview.net/pdf?id=tplXNcHZs1) <br>
+  Zehao Dou, Yang Song <br>
+  *ICLR 2024*
 - [Learning Narrow One-Hidden-Layer ReLU Networks](https://arxiv.org/abs/2304.10524) <br>
   Sitan Chen, Zehao Dou, Surbhi Goel, Adam R Klivans, Raghu Meka <br>
   *COLT 2023*
