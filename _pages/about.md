@@ -18,6 +18,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 - [Theory of Consistency Diffusion Models: Distribution Estimation Meets Fast Sampling](https://openreview.net/pdf?id=pAPykbqUHf) <br>
   Zehao Dou, Minshuo Chen, Mengdi Wang, Zhuoran Yang <br>
   *ICML 2024*
+
 ### 2023 
 - [Diffusion Posterior Sampling for Linear Inverse Problem Solving: A Filtering Perspective](https://openreview.net/pdf?id=tplXNcHZs1) <br>
   Zehao Dou, Yang Song <br>
