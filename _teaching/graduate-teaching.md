@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "New Haven, Connecticut"
 ---
 
-## 2024 Springc
+## 2024 Spring
 - __S&DS 364 / AMATH 364 / EENG 454 / S&DS 664: Information Theory__ <br>
   Instructor: [Andrew Barron](http://www.stat.yale.edu/~arb4/)
 
