@@ -15,6 +15,9 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 
 ## Selected Publications
 ### 2024
+- [Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data](https://arxiv.org/pdf/2407.16134) <br>
+  Hengyu Fu, Zehao Dou, Jiawei Guo, Minshuo Chen, Mengdi Wang <br>
+  *Arxiv Preprint*
 - [Theory of Consistency Diffusion Models: Distribution Estimation Meets Fast Sampling](https://openreview.net/pdf?id=pAPykbqUHf) <br>
   Zehao Dou, Minshuo Chen, Mengdi Wang, Zhuoran Yang <br>
   *ICML 2024*
