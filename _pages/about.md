@@ -33,7 +33,7 @@ Previously, I obtained my bachelor degree from School of Mathematical Sciences, 
 ### 2022
 - [Rates of Estimation for High-dimensional Multi-reference Alignment](https://arxiv.org/abs/2205.01847) <br>
   Zehao Dou, Zhou Fan, Harrison Zhou <br>
-  *Annuals of Statistics (AoS)*
+  *Annals of Statistics (AoS)*
 - [Understanding Value Decomposition Algorithms in Deep Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2202.04868) <br>
   Zehao Dou, Jakub Grudzien Kuba, Yaodong Yang <br>
   *arxiv preprint*
