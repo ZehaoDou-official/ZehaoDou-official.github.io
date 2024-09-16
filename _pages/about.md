@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth year PhD candidate from the Department of Statistics and Data Science at Yale University, and I am so honored to be supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
+I am currently a fifth year PhD candidate from the Department of Statistics and Data Science at Yale University, and I am so honored to be supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
 
 Previously, I obtained my bachelor's degree from School of Mathematical Sciences, Peking University (2015.9-2019.6). I have wide research interests including statistics, data science and generative AI. My research goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. Recently, my main research interest lies in score-based diffusion models. 
 
