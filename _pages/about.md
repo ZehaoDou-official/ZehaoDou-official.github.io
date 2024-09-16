@@ -10,11 +10,17 @@ redirect_from:
 
 I am currently a fourth year PhD candidate from the Department of Statistics and Data Science at Yale University, and I am so honored to be supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
 
-Previously, I obtained my bachelor degree from School of Mathematical Sciences, Peking University (2015.9-2019.7). I have wide research interests including theoretical statistics and machine learning theory. My research goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. Recently, my main research interest lies in generative models. 
+Previously, I obtained my bachelor's degree from School of Mathematical Sciences, Peking University (2015.9-2019.6). I have wide research interests including statistics, data science and generative AI. My research goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. Recently, my main research interest lies in score-based diffusion models. 
 
 
 ## Selected Publications
 ### 2024
+- [From Optimal Score Matching to Optimal Sampling](https://arxiv.org/pdf/2409.07032) <br>
+  Zehao Dou, Subhodh Kotekal, Zhehao Xu, Harrison H. Zhou <br>
+  *Arxiv Preprint (Under Review by the Annals of Statistics)*
+- [Think Twice Before You Act: Improving Inverse Problem Solving With MCMC](https://arxiv.org/pdf/2409.08551) <br>
+  Yaxuan Zhu, Zehao Dou, Haoxin Zheng, Yasi Zhang, Ying Nian Wu, Ruiqi Gao <br>
+  *Arxiv Preprint*
 - [Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data](https://arxiv.org/pdf/2407.16134) <br>
   Hengyu Fu, Zehao Dou, Jiawei Guo, Minshuo Chen, Mengdi Wang <br>
   *Arxiv Preprint*
