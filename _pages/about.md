@@ -62,6 +62,9 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
  - [Making Method of Moments Great Again? -- How can GANs learn distributions](https://arxiv.org/abs/2003.04033) <br>
   Yuanzhi Li, Zehao Dou <br>
  *arxiv preprint*
+ - [Approximating N-Player Nash Equilibrium through Gradient Descent](https://arxiv.org/abs/2501.03001) <br>
+  Dongge Wang, Xiang Yan, Zehao Dou, Wenhan Huang, Yaodong Yang, Xiaotie Deng <br>
+ *IJTCS 2020*
 
 ### Before 2019
  - Improving Word Embeddings for Antonym Detection Using Thesauri and Sentiwordnet <br>
