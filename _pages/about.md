@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth year PhD candidate from the Department of Statistics and Data Science at Yale University, and I am so honored to be supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
+I am currently a Member of the Technical Staff at OpenAI. A few months ago, I earned my Ph.D. from the Department of Statistics and Data Science at Yale University, where I had the honor of being supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
 
 Previously, I obtained my bachelor's degree from School of Mathematical Sciences, Peking University (2015.9-2019.6). I have wide research interests including statistics, data science and generative AI. My research goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. Recently, my main research interest lies in score-based diffusion models. 
 
@@ -71,10 +71,16 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
  Zehao Dou, Wei Wei, Xiaojun Wan <br>
  *NLPCC 2018*
  - [Mathematical Analysis of the Adversarial Attacks](https://arxiv.org/abs/1811.06492) <br>
-  Zehao Dou, Stanley Osher, Bao Wang <br>
+ Zehao Dou, Stanley Osher, Bao Wang <br>
  *arxiv preprint*
+ - [Approximating N-Player Nash Equilibrium through Gradient Descent](https://arxiv.org/abs/2501.03001) <br>
+ Dongge Wang, Xiang Yan, Zehao Dou, Wenhan Huang, Yaodong Yang and Xiaotie Deng <br>
+ *IJTCS 2020*
  
 ## Experiences
+ - 6/2024 - 8/2024:
+   Worked as a quantitative researcher intern at Optiver in the systematic trading group advised by Mark Perlman. During the internship, I studied the exchange success rate as well as how to improve the transmit time of orders.
+   
  - 6/2022 - 9/2022:
    Worked as a student researcher at Google AI in the Lux Group advised by Ankur Parikh, Ran Tian, Lei Tao and Behnam Neyshabur. During the internship, I studied a new version of T5 encoder-decoder language pretraining models, and apply them to natural language generation and protein generation, showing much better performance.
 
