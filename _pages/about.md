@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Member of the Technical Staff at OpenAI. A few months ago, I earned my Ph.D. from the Department of Statistics and Data Science at Yale University, where I had the honor of being supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
+I am currently a Member of Technical Staff at OpenAI. A few months ago, I earned my Ph.D. from the Department of Statistics and Data Science at Yale University, where I had the honor of being supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
 
 Previously, I obtained my bachelor's degree from School of Mathematical Sciences, Peking University (2015.9-2019.6). I have wide research interests including statistics, data science and generative AI. My research goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. Recently, my main research interest lies in score-based diffusion models. 
 
 
 ## Selected Publications
+### 2025
+- [Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation](https://cdn.openai.com/pdf/34f2ada6-870f-4c26-9790-fd8def56387f/CoT_Monitoring.pdf) <br>
+  OpenAI <br>
+  *OpenAI Blog*
+  
 ### 2024
 - [From Optimal Score Matching to Optimal Sampling](https://arxiv.org/pdf/2409.07032) <br>
   Zehao Dou, Subhodh Kotekal, Zhehao Xu, Harrison H. Zhou <br>
@@ -73,9 +78,6 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
  - [Mathematical Analysis of the Adversarial Attacks](https://arxiv.org/abs/1811.06492) <br>
  Zehao Dou, Stanley Osher, Bao Wang <br>
  *arxiv preprint*
- - [Approximating N-Player Nash Equilibrium through Gradient Descent](https://arxiv.org/abs/2501.03001) <br>
- Dongge Wang, Xiang Yan, Zehao Dou, Wenhan Huang, Yaodong Yang and Xiaotie Deng <br>
- *IJTCS 2020*
  
 ## Experiences
  - 6/2024 - 8/2024:
