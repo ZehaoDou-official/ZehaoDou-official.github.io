@@ -15,6 +15,9 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
 
 ## Selected Publications
 ### 2025
+- [Is Your Diffusion Model Actually Denoising?](https://openreview.net/pdf?id=Z2lWGBx2v2) <br>
+  Daniel Pfrommer, Zehao Dou, Christopher Scarvelis, Max Simchowitz, Ali Jadbabaie <br>
+  *NeurIPS 2025*
 - [Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation](https://cdn.openai.com/pdf/34f2ada6-870f-4c26-9790-fd8def56387f/CoT_Monitoring.pdf) <br>
   OpenAI <br>
   *OpenAI Blog*
