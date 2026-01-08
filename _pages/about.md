@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Member of Technical Staff at OpenAI. A few months ago, I earned my Ph.D. from the Department of Statistics and Data Science at Yale University, where I had the honor of being supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
+I am currently a Member of Technical Staff at OpenAI. In January 2025, I earned my Ph.D. from the Department of Statistics and Data Science at Yale University, where I had the honor of being supervised by [Prof. Harrison Zhou](http://www.stat.yale.edu/~hz68/). <br><br>
 
 Previously, I obtained my bachelor's degree from School of Mathematical Sciences, Peking University (2015.9-2019.6). I have wide research interests including statistics, data science and generative AI. My research goal is to design efficient and provable algorithms, to deepen the statistical understanding, and to provide new perspective for practical machine learning problems. Recently, my main research interest lies in score-based diffusion models. 
 
 
 ## Selected Publications
 ### 2025
+- [Monitoring Monitorability](https://arxiv.org/pdf/2512.18311) <br>
+  OpenAI <br>
+  *OpenAI Blog*
 - [Is Your Diffusion Model Actually Denoising?](https://openreview.net/pdf?id=Z2lWGBx2v2) <br>
   Daniel Pfrommer, Zehao Dou, Christopher Scarvelis, Max Simchowitz, Ali Jadbabaie <br>
   *NeurIPS 2025*
@@ -83,6 +86,10 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
  *arxiv preprint*
  
 ## Experiences
+ - 1/2025 - now:
+   Member of Technical Staff (Research Scientist) at OpenAI. 
+ - 9/2020 - 1/2025:
+   PhD at Department of Statistics and Data Science, Yale University. 
  - 6/2024 - 8/2024:
    Worked as a quantitative researcher intern at Optiver in the systematic trading group advised by Mark Perlman. During the internship, I studied the exchange success rate as well as how to improve the transmit time of orders.
    
