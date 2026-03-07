@@ -14,6 +14,10 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
 
 
 ## Selected Publications
+### 2026
+- [Fundiff: Diffusion models over function spaces for physics-informed generative modeling](https://arxiv.org/pdf/2506.07902) <br>
+  Sifan Wang, Zehao Dou, Siming Shan, Tong-Rui Liu, Lu Lu <br>
+  *Nature Communications*
 ### 2025
 - [Monitoring Monitorability](https://arxiv.org/pdf/2512.18311) <br>
   OpenAI <br>
