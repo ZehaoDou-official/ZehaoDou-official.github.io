@@ -15,6 +15,9 @@ Previously, I obtained my bachelor's degree from School of Mathematical Sciences
 
 ## Selected Publications
 ### 2026
+- [Investigating the consequences of accidentally grading CoT during RL](https://alignment.openai.com/accidental-cot-grading/) <br>
+  Micah Carroll, Tomek Korbak, Zehao Dou, Bowen Baker, Ian Kivlichan <br>
+  *OpenAI Alignment Research Blog*
 - [Fundiff: Diffusion models over function spaces for physics-informed generative modeling](https://arxiv.org/pdf/2506.07902) <br>
   Sifan Wang, Zehao Dou, Siming Shan, Tong-Rui Liu, Lu Lu <br>
   *Nature Communications*
